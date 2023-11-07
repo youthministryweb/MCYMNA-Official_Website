@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "MCYMNA Official Website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "carpenter-website-template"
+	}
+}
