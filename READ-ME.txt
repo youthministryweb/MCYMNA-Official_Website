@@ -1,11 +1,21 @@
-  =>  Template Name    : WooDY - Carpenter Website Template
+ 
 
-  =>  Template Link    : https://htmlcodex.com/carpenter-website-template-free
+ Thank you for purchasing from HTML Codex
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+ ** LICENSE ACTIVATION **
 
-  =>  Author Website   : https://htmlcodex.com
+ => Open the "LICENSE.txt" file with a text editor
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+ => Change the above number (#12345678) with Order/Receipt number (receipt has been sent to your mail)
+
+ => Save the "LICENSE.txt" file and keep it in your template/website root folder
+
+ => If a "LICENSE.txt" file already exists in your template/website root folder, replace that with the new file.
+
+ => The URL will be "www.yoursite.com/LICENSE.txt"
+
+ => You're done!
+
+ ** ENJOY!!! **
+
